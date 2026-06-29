@@ -18,6 +18,12 @@
         {
           "photosPermission": "Allow Fish App to access your photos."
         }
+      ],
+      [
+        "react-native-maps",
+        {
+          "googleMapsApiKey": "AIzaSyD-REPLACE_WITH_YOUR_GOOGLE_MAPS_KEY"
+        }
       ]
     ],
     "ios": {
